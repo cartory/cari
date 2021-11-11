@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cartory/cari.git/static/css/main.fa8c3036.chunk.css",
-    "main.js": "/cartory/cari.git/static/js/main.6de4c240.chunk.js",
-    "main.js.map": "/cartory/cari.git/static/js/main.6de4c240.chunk.js.map",
-    "runtime-main.js": "/cartory/cari.git/static/js/runtime-main.920e0c55.js",
-    "runtime-main.js.map": "/cartory/cari.git/static/js/runtime-main.920e0c55.js.map",
-    "static/js/2.148dcf3e.chunk.js": "/cartory/cari.git/static/js/2.148dcf3e.chunk.js",
-    "static/js/2.148dcf3e.chunk.js.map": "/cartory/cari.git/static/js/2.148dcf3e.chunk.js.map",
-    "static/js/3.6433b16e.chunk.js": "/cartory/cari.git/static/js/3.6433b16e.chunk.js",
-    "static/js/3.6433b16e.chunk.js.map": "/cartory/cari.git/static/js/3.6433b16e.chunk.js.map",
-    "index.html": "/cartory/cari.git/index.html",
-    "static/css/main.fa8c3036.chunk.css.map": "/cartory/cari.git/static/css/main.fa8c3036.chunk.css.map",
-    "static/js/2.148dcf3e.chunk.js.LICENSE.txt": "/cartory/cari.git/static/js/2.148dcf3e.chunk.js.LICENSE.txt"
+    "main.css": "/cari/static/css/main.fa8c3036.chunk.css",
+    "main.js": "/cari/static/js/main.a9962adf.chunk.js",
+    "main.js.map": "/cari/static/js/main.a9962adf.chunk.js.map",
+    "runtime-main.js": "/cari/static/js/runtime-main.3f9184aa.js",
+    "runtime-main.js.map": "/cari/static/js/runtime-main.3f9184aa.js.map",
+    "static/js/2.148dcf3e.chunk.js": "/cari/static/js/2.148dcf3e.chunk.js",
+    "static/js/2.148dcf3e.chunk.js.map": "/cari/static/js/2.148dcf3e.chunk.js.map",
+    "static/js/3.6433b16e.chunk.js": "/cari/static/js/3.6433b16e.chunk.js",
+    "static/js/3.6433b16e.chunk.js.map": "/cari/static/js/3.6433b16e.chunk.js.map",
+    "index.html": "/cari/index.html",
+    "static/css/main.fa8c3036.chunk.css.map": "/cari/static/css/main.fa8c3036.chunk.css.map",
+    "static/js/2.148dcf3e.chunk.js.LICENSE.txt": "/cari/static/js/2.148dcf3e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.920e0c55.js",
+    "static/js/runtime-main.3f9184aa.js",
     "static/js/2.148dcf3e.chunk.js",
     "static/css/main.fa8c3036.chunk.css",
-    "static/js/main.6de4c240.chunk.js"
+    "static/js/main.a9962adf.chunk.js"
   ]
 }
